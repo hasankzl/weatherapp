@@ -11,6 +11,6 @@ https://reactweathercard.netlify.app/
 | defaultSearch | String                         |          | default search place for weather card                                                                                                          |
 | units         | "metric","standard","imperial" | "metric" | units of the weather                                                                                                                           |
 | lang          | String                         | "en"     | Language of weather description                                                                                                                |
-| closeInpu     | Boolean                        | false    | closing the searh input                                                                                                                        |
+| closeInput     | Boolean                        | false    | closing the searh input                                                                                                                        |
 
 Works with using www.openweathermap.org weather api.
