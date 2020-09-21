@@ -14,7 +14,3 @@ https://reactweathercard.netlify.app/
 | closeInpu     | Boolean                        | false    | closing the searh input                                                                                                                        |
 
 Works with using www.openweathermap.org weather api.
-
-
-https://openweathermap.org/
-
