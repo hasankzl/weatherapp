@@ -28,7 +28,7 @@ export default App
 ```
 
 #### With Props
-```
+```js
 import React, { useState } from 'react'
 import "reactweathercard/dist/index.css"
 import ExampleComponent from 'reactweathercard'
