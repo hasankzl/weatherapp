@@ -1,7 +1,7 @@
 {
   "name": "weatherapp",
-  "homepage": ".",
-  "version": "1.0.0",
+  "homepage": "http://gitname.github.io/reactweathercard",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
