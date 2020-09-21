@@ -1,6 +1,6 @@
 {
   "name": "reactweathercard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "weather app for react",
   "author": "CoderSau",
   "license": "MIT",
@@ -16,7 +16,8 @@
     "react",
     "component",
     "weather",
-    "react weather"
+    "react weather",
+    "react weather card"
   ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",

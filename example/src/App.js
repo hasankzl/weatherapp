@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
-
-import ExampleComponent from 'leveluptoggle'
-import 'leveluptoggle/dist/index.css'
+import "reactweathercard/dist/index.css"
+import ExampleComponent from 'reactweathercard'
 const langs = ["en", "de", "ar", "zh"];
 const units = ["metric", "standard", "imperial"];
 const App = () => {
